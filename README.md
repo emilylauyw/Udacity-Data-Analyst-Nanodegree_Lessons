@@ -9,7 +9,7 @@ Learn the data analysis process of questioning, wrangling, exploring, analyzing,
 - Lesson 4 Practical Statistics
 Learn how to apply inferential statistics and probability to important, real-world scenarios, such as analyzing A/B tests and building supervised learning models.
 
-##Projects
+## Projects
 - Project 0: Explore Weather Trends
 - Project 1: Explore US Bikeshare Data with Python
 -
