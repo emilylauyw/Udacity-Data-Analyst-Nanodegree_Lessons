@@ -30,4 +30,4 @@ How to use Histograms to determine shape associated with data.
 - Left Skewed: shorter bins on the left and taller bins on the right, is considered a left skewed shape.
 - Right Skewed:
 
-!(Screenshots/01.png "Histogram Shape")
+![Histogram Shape](Screenshots/01.png "Histogram")
