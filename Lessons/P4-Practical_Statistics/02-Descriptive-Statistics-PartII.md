@@ -1,4 +1,4 @@
-# CC4 - 02: [Optional] Descriptive Statistics - Part II
+# P4 - 02: [Optional] Descriptive Statistics - Part II
 
 ## Aspects of Quantitative Variables
 1. Centre
