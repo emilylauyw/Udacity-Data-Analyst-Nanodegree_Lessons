@@ -1,12 +1,27 @@
-# CC4 - 02: [Optional] Descriptive Statistics - Part II
+# P4 - 02: [Optional] Descriptive Statistics - Part II
+
+
+## Variable Types
+1. Categorical Variables
+- Ordinal
+- Nominal
+
+2. Quantitative Variables
+- Continuous
+- Discrete
 
 ## Aspects of Quantitative Variables
-1. Centre
-2. Spread
-3. Shape
+1. Measures of Centre
+2. Measures of Spread
+3. Shape of the Distribution
 4. Outliers
 
-### 2. Spread
+### 1. Measures of Centre
+- Medians
+- Medians
+- Modes
+
+### 2. Measures of Spread
 Provide an idea of how spread out the data are from one another.
 
 #### Common Measures of Spread include:
@@ -42,6 +57,8 @@ Useful for quickly comparing the spread of two data sets.
 - Data varies: if it is broader, the data varies much more than the other
 - Range: visualize the box plot distance from start to end
 - Interquartile range: distance from the start box to the end box is the
+- 3rd quartile: top part of the box in the box-plot
+- Plot is symmetric: box is square is symmetric; more rectangular is skewed.
 
 #### Standard Deviation or Variance
 Compare the spread of data to determine which is more spread out.
@@ -61,11 +78,15 @@ Calculation:
 Use in the World:
 - The standard deviation is associated with risk in finance, assists in determining the significance of drugs in medical studies, and measures the error of our results for predicting anything from the amount of rainfall we can expect tomorrow to your predicted commute time tomorrow.
 
-### 3. Shape
+### 3. Shape of the Distribution
 How to use Histograms to determine shape associated with data.
 - Left Skewed: shorter bins on the left and taller bins on the right.
 - Right Skewed: shorter bins on the right and taller bins on the left.
-- Symmetric: can draw a line down the middle and the right side mirrors the left side.
+- Symmetric (Normal Distribution): can draw a line down the middle and the right side mirrors the left side.
+
+When we have data that follows a normal distribution, we can completely understand our dataset using the mean and standard deviation.
+
+However, if our dataset is skewed, the 5 number summary (and measures of center associated with it) might be better to summarize our dataset.
 
 ![Histogram Shape](Screenshots/01.png "Histogram Shape")
 
@@ -103,3 +124,17 @@ Data points that fall very far from the rest of the values in our dataset. This 
 2. Handle outliers accordingly via the methods above.
 3. If no outliers and your data follow a normal distribution - use the mean and standard deviation to describe your dataset, and report that the data are normally distributed.
 4. If you have skewed data or outliers, use the five number summary to summarize your data and report the outliers.
+
+## Descriptive vs. Inferential Statistics
+
+#### Descriptive Statistics
+Descriptive statistics is about describing our collected data using the measures discussed: measures of center, measures of spread, shape of our distribution, and outliers. We can also use plots of our data to gain a better understanding.
+
+#### Inferential Statistics
+Inferential Statistics is about using our collected data to draw conclusions to a larger population. Performing inferential statistics well requires that we take a sample that accurately represents our population of interest.
+
+We looked at specific examples that allowed us to identify the:
+1. Population - our entire group of interest.
+2. Parameter - numeric summary about a population. Frequently we do not know this value, so we must try and estimate.
+3. Sample - subset of the population
+4. Statistic - numeric summary about a sample
