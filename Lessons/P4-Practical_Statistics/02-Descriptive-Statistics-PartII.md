@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # P4 - 02: [Optional] Descriptive Statistics - Part II
-
 
 ## Variable Types
 1. Categorical Variables
@@ -10,11 +8,6 @@
 2. Quantitative Variables
 - Continuous
 - Discrete
-||||||| merged common ancestors
-# CC4 - 02: [Optional] Descriptive Statistics - Part II
-=======
-# P4 - 02: [Optional] Descriptive Statistics - Part II
->>>>>>> 259b3e0ee19b93fbf553e6bcd442fbfee30591d8
 
 ## Aspects of Quantitative Variables
 1. Measures of Centre
